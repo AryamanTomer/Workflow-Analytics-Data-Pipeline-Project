@@ -33,7 +33,7 @@ Gold tables:
 - Task duration per workflow
 
 ## Tableau Dashboard
-Link: <TABLEAU PUBLIC URL HERE>
+Link: https://public.tableau.com/app/profile/aryaman.tomer1295/viz/Book1_17700932042390/Dashboard1
 
 ## Notes
 - Secrets managed via Databricks secrets / environment variables
